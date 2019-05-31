@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "node crash course with brad traversy.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insidetwizzles/myApp.git"
+  },
+  "author": "addie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insidetwizzles/myApp/issues"
+  },
+  "homepage": "https://github.com/insidetwizzles/myApp#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
